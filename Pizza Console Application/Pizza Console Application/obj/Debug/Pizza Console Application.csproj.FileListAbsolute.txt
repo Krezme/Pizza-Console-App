@@ -1,0 +1,6 @@
+X:\LEVEL 3\Year 2\Kevin\Pizza Console App 2\Pizza Console Application\Pizza Console Application\bin\Debug\Pizza Console Application.exe.config
+X:\LEVEL 3\Year 2\Kevin\Pizza Console App 2\Pizza Console Application\Pizza Console Application\bin\Debug\Pizza Console Application.exe
+X:\LEVEL 3\Year 2\Kevin\Pizza Console App 2\Pizza Console Application\Pizza Console Application\bin\Debug\Pizza Console Application.pdb
+X:\LEVEL 3\Year 2\Kevin\Pizza Console App 2\Pizza Console Application\Pizza Console Application\obj\Debug\Pizza Console Application.csprojResolveAssemblyReference.cache
+X:\LEVEL 3\Year 2\Kevin\Pizza Console App 2\Pizza Console Application\Pizza Console Application\obj\Debug\Pizza Console Application.exe
+X:\LEVEL 3\Year 2\Kevin\Pizza Console App 2\Pizza Console Application\Pizza Console Application\obj\Debug\Pizza Console Application.pdb
